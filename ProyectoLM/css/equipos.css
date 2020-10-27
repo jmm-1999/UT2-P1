@@ -1,0 +1,36 @@
+
+main {
+    height: 800px;
+    width: 700px;
+    margin-left: 2%;
+}
+section {
+    height: 375px;
+    width: 100%;
+}
+table {
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+table tr td, th {
+    border: 1px solid black;
+    text-align: center;
+}
+span {
+    text-align: center;
+    width: 100%;
+}
+#img1 {
+    height: 80px;
+}
+#img2 {
+    height: 80px;
+    width: 115px;
+}
+#img3 {
+    height: 30px;
+}
+#img4 {
+    height: 80px;
+}
